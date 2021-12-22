@@ -1,0 +1,4 @@
+com\example\provaLucas\ProvaLucasDataApplication.class
+com\example\provaLucas\controller\UserController.class
+com\example\provaLucas\entity\User.class
+com\example\provaLucas\repository\UserRepository.class
